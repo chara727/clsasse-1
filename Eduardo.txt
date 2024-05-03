@@ -1,1 +1,2 @@
-cualquier cosa, ponganle ahí nose
+cualquier cosa, ponganle ahí nose git status
+
